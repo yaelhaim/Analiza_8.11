@@ -1,0 +1,13 @@
+{
+  "name": "node-09-async-promises",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercise 9 - Node.js fs with Promises and async/await - starter with tests",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --test --test-reporter=./test/reporter.mjs test/ex01.test.js test/ex02.test.js test/ex03.test.js test/ex04.test.js test/ex05.test.js test/ex06.test.js test/ex07.test.js test/ex08.test.js test/ex09.test.js test/ex10.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
